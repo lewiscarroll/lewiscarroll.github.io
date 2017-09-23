@@ -1,17 +1,18 @@
-<!doctype html>
-<html lang="es">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <header>
-      <h1>Asociación Lewis Carroll</h1>
-    </header>
-    <div class="content">
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body class="page" itemscope itemtype="http://schema.org/WebPage">
+
+    {% include header.html %}
+
+    <main id="main">
       {{ content }}
-    </div>
-    <footer>
-    </footer>
+    </main>
+    <script src={{ "/assets/js/instantclick.min.js" | relative_url }}  data-no-instant></script>
+    <script data-no-instant>
+      InstantClick.init();
+    </script>
   </body>
 </html>
