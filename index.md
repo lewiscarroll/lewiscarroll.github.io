@@ -12,7 +12,7 @@ Nuestro local está en el sótano de la facultad aula s-202 (Ciudad Universitari
 
 ## Actividades
 
--Salidas a la montaña
--Jam sessions
--Taller de bicicletas
--Préstamo de libros
+- Salidas a la montaña
+- Jam sessions
+- Taller de bicicletas
+- Préstamo de libros
