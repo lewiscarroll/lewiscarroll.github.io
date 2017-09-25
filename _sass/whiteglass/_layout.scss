@@ -35,11 +35,9 @@
       margin-right: 20px;
     }
   }
+  
 
-  @include media-query(405px !default) {
-    float: left;
-    line-height: 1em;
-    
+  @include media-query($on-palm) {
     .page-link {
       padding: 20px 0;
 
