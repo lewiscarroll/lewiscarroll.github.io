@@ -16,4 +16,4 @@ Lewis Carroll es la asociación cultural de la Facultad de Matemáticas de la UC
 
 
 
-Web desarrollada con [Jekyll](https://jekyllrb.com/). Tema [whiteglass](https://github.com/yous/whiteglass)._
+_Web desarrollada con [Jekyll](https://jekyllrb.com/). Tema [whiteglass](https://github.com/yous/whiteglass)._

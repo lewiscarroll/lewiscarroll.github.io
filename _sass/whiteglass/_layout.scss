@@ -36,7 +36,10 @@
     }
   }
 
-  @include media-query($on-palm) {
+  @include media-query(405px !default) {
+    float: left;
+    line-height: 1em;
+    
     .page-link {
       padding: 20px 0;
 
