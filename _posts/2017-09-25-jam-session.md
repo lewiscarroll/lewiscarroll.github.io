@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taller de bicicletas"
+title:  "Jam Session"
 date:   2017-09-25 15:00:00
 ---
 
