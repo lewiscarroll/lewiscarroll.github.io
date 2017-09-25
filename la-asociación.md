@@ -12,3 +12,5 @@ Lewis Carroll es una asociación cultural de alumnos de matematicas bla bla bla 
 - Taller de bicicletas
 - Taller de talleres
 
+
+_Página desarrollada con [Jekyll](https://jekyllrb.com/). Tema [whiteglass](https://github.com/yous/whiteglass)._
