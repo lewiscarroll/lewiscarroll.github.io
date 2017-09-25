@@ -3,7 +3,7 @@
 main:
   - title: "La asociación"
     url: /la-asociación/
-  - title: "Archives"
-    url: /archives/
-  - title: "GitHub"
-    url: https://github.com/lewiscarroll
+  - title: "Tablón cultural"
+    url: /tablón/
+#  - title: "Archives"
+#    url: /archives/

@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Tablón cultural"
+permalink: /tablón/
+---
+
+Lewis Carroll es una asociación cultural de alumnos de matematicas bla bla bla bla bla...
+
+## Actividades
+- Taller de fotografía
+- Taller de música
+- Taller de bicicletas
+- Taller de talleres
+
+
+_Página desarrollada con [Jekyll](https://jekyllrb.com/). Tema [whiteglass](https://github.com/yous/whiteglass)._
