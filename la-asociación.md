@@ -14,6 +14,8 @@ Lewis Carroll es la asociación cultural de la Facultad de Matemáticas de la UC
 - Salidas culturales
 - Taller de talleres
 
+### Contacto
 
+Puedes contactarnos por [email](mailto:lewiscarrollnoarmstrong@gmail.com), por [twitter](https://twitter.com/lewiscarrollmat) o por [facebook].
 
 _Web desarrollada con [Jekyll](https://jekyllrb.com/). Tema [whiteglass](https://github.com/yous/whiteglass)._
