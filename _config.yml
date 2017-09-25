@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lewis Carroll
-author: Lewis Carroll 
+author: Lewis Carroll
 description: Asociación de la Facultad de Matemáticas de la UCM.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://lewiscarroll.es" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,7 +27,7 @@ exclude:
 
 # Social media
 twitter_username: lewiscarrollmat
-twitter_image:
+twitter_image: http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c53e.png
 facebook_app_id:
 facebook_image:
 google_analytics:
