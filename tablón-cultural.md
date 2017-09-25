@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Actividades
+title: Tablón Cultural
 navigation: true
 ---
 
