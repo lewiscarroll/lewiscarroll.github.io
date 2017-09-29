@@ -4,7 +4,7 @@ title: "Actividades"
 permalink: /actividades/
 ---
 
-- (Taller de fotografía y revelado)[/fotografía-y-revelado]
+- (Taller de fotografía y revelado)[/fotografía-y-revelado/]
 - Jam sessions
 - Taller de bicicletas (reparaciones y salidas)
 - Salidas a la montaña
