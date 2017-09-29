@@ -5,11 +5,10 @@ permalink: /actividades/
 ---
 
 - [Taller de fotografía y revelado](/fotografía-y-revelado/)
+- [Taller de bicicletas (reparaciones y salidas)](/bicicletas/)
+- [Salidas culturales](/tablón)
 - Jam sessions
-- Taller de bicicletas (reparaciones y salidas)
 - Salidas a la montaña
-- Salidas culturales
-- Taller de talleres
 
 ### Contacto
 
