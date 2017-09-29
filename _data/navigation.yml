@@ -3,6 +3,8 @@
 main:
   - title: "La asociación"
     url: /la-asociación/
+  - title: "Actividades"
+    url: /actividades/
   - title: "Tablón cultural"
     url: /tablón/
 #  - title: "Archives"

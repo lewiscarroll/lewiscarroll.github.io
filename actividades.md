@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "La asociación"
-permalink: /la-asociación/
+title: "Actividades"
+permalink: /actividades/
 ---
 
-Lewis Carroll es la asociación cultural de la Facultad de Matemáticas de la UCM.
-
-(Actividades)[/actividades/]
+- (Taller de fotografía y revelado)[/fotografía-y-revelado]
+- Jam sessions
+- Taller de bicicletas (reparaciones y salidas)
+- Salidas a la montaña
+- Salidas culturales
+- Taller de talleres
 
 ### Contacto
 
