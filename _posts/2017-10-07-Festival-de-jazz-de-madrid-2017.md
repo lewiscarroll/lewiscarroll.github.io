@@ -4,7 +4,7 @@ title: "Festival de Jazz de Madrid 2017"
 ---
 
 
-![Cartel Jazz Madrid 2017]({{ site.url }}/files/festival-jazz-internacional-madrid-2017.gif)
+#![Cartel Jazz Madrid 2017]({{ site.url }}/files/festival-jazz-internacional-madrid-2017.gif)
 
  
   
