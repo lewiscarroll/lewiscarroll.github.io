@@ -20,7 +20,11 @@ title: "Festival de Jazz de Madrid 2017"
 
 
 **-Mark Juliana Trio**
-
+<p>
+ <p>
+  <p>
+   <p>
+    <p>
 
 >2 de Noviembre, 19:00, Centro Cultural Conde Duque. 
 
