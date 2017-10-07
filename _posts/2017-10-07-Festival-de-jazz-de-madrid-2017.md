@@ -18,19 +18,18 @@ title: "Festival de Jazz de Madrid 2017"
 
 ![Los de lewis extasiados en el festival de jazz allá por los 50]({{ site.url }}/files/AHeN1bi.jpg)
 
+<br />
+
+<br />
+
+<br />
+
+<br />
+
 
 **-Mark Juliana Trio**
-<p>  </p>
-<p>  </p>
-<p>  </p>
 
-<p>  </p>
 
-<p>  </p>
-
-<p>  </p>
-
-aaaaaa
 
 >2 de Noviembre, 19:00, Centro Cultural Conde Duque. 
 
