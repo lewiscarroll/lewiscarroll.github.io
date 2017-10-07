@@ -4,6 +4,8 @@ title: "Tablón cultural"
 permalink: /tablón/
 ---
 NOVIEMBRE 2017
+
+
 -[Festival de Jazz de Madrid](http://http://lewiscarroll.es/2017/10/07/Festival-de-jazz-de-madrid-2017/)
 
 Próximamente ampliaremos esta página con información sobre la oferta cultural de Madrid.
