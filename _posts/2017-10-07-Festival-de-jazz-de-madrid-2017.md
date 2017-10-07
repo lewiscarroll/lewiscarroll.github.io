@@ -16,7 +16,7 @@ title: "Festival de Jazz de Madrid 2017"
 
 
 
-%![Los de lewis extasiados en el festival de jazz allá por los 50]({{ site.url }}/files/AHeN1bi.jpg)
+%![Los de lewis extasiados en el festival de jazz allá por los 50]({{ site.url }}/files/AHeN1bi.jpg)%
 
 <br />
 
