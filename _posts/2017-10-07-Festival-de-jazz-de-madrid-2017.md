@@ -37,7 +37,7 @@ title: "Festival de Jazz de Madrid 2017"
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/s69qVHp6iDo" frameborder="0" allowfullscreen></iframe>
 </div>
-> [2 de Noviembre, 18:00, Pasacalles en la Plaza de las Comendadoras. Gratis.](http://www.festivaldejazzmadrid.com/programacion-jazz-madrid/nola-brass-band/)
+> [2 de Noviembre, 18:00, Pasacalles en la Plaza de las Comendadoras. Gratis.](http://www.festivaldejazzmadrid.com/programacion-jazz-madrid/nola-brass-band/)  
 > [5 de Noviembre, 18:00, Pasacalles en la Plaza del descubrimiento. Gratis.](http://www.festivaldejazzmadrid.com/programacion-jazz-madrid/nola-brass-band-ii/)
 
 
