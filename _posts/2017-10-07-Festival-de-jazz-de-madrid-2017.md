@@ -12,11 +12,9 @@ title: "Festival de Jazz de Madrid 2017"
 
 <br />
 
-Conciertos
--------------------------------
+## Conciertos
 
-
-**-Mark Juliana Trio**
+### Mark Juliana Trio
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Au7L_kIh4p0" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +23,7 @@ Conciertos
 >2 de Noviembre, 19:00, Centro Cultural Conde Duque. Desde 10€.
 
 
-**-Daymé Arocena**
+### Daymé Arocena
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fIqvuKnYWhk" frameborder="0" allowfullscreen></iframe>
@@ -34,7 +32,7 @@ Conciertos
 >2 de Noviembre, 21:30, Teatro Fernán Gómez. Desde 23€.
 
 
-**-Nola Brass Band**
+### Nola Brass Band
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/s69qVHp6iDo" frameborder="0" allowfullscreen></iframe>
@@ -43,7 +41,7 @@ Conciertos
 >5 de Noviembre, 18:00, Pasacalles en la Plaza del descubrimiento. Gratis.
 
 
-**-Shai Maestro Trio**
+### Shai Maestro Trio
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/CvrjjGcGHiI" frameborder="0" allowfullscreen></iframe>
@@ -52,7 +50,7 @@ Conciertos
 >5 de Noviembre, 20:00, Teatro Fernán Gómez. Desde 17€.
 
 
-**-Vieux Farka Touré**
+### Vieux Farka Touré
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/uxRC5VJ2xJk" frameborder="0" allowfullscreen></iframe>
@@ -61,7 +59,7 @@ Conciertos
 >7 de Noviembre, 21:30, Teatro Fernán Gómez. Desde 17 €.
 
 
-**-Mostly Other People Do the Killing**
+### Mostly Other People Do the Killing
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/n0DSvK7hnMM" frameborder="0" allowfullscreen></iframe>
@@ -70,7 +68,7 @@ Conciertos
 >10 de Noviembre, 19:30, Centro Cultural Conde Duque. Desde 10 €.
 
 
-**-Ron Carter Trio**
+### Ron Carter Trio
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/RFNHrzsRzZE" frameborder="0" allowfullscreen></iframe>
@@ -79,7 +77,7 @@ Conciertos
 >10 de Noviembre, 21:30, Teatro Fernán Gómez. Desde 17€.
 
 
-**-Mulatu Astatke**
+### Mulatu Astatke
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/UVAqdHXb1Ic" frameborder="0" allowfullscreen></iframe>
@@ -88,7 +86,7 @@ Conciertos
 >14 de Noviembre 19:30, Centro Cultural Conde Duque. Desde 12€.
 
 
-**-Fred Hersch Trio**
+### Fred Hersch Trio
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/x8lVLaEsFIE" frameborder="0" allowfullscreen></iframe>
@@ -97,7 +95,7 @@ Conciertos
 >16 de Noviembre, 21:30, Teatro Fernán Gómez. Desde 22€.
 
 
-**-Melissa Aldana Quartet**
+### Melissa Aldana Quartet
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/AueMO4N2BLA" frameborder="0" allowfullscreen></iframe>
@@ -106,7 +104,7 @@ Conciertos
 >18 de Noviembre, 19:30, Centro Cultural Conde Duque. Desde 10 €.
 
 
-**-Cory Henry and the Funk Apostles**
+### Cory Henry and the Funk Apostles
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/kdiUxL2iN1A" frameborder="0" allowfullscreen></iframe>
@@ -115,7 +113,7 @@ Conciertos
 >20 de Noviembre, 19:30 o 22:00 (dos pases), Sala Clamores. Desde 25€.
 
 
-**-Benny Golson**
+### Benny Golson
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/TW641zgPOqQ" frameborder="0" allowfullscreen></iframe>
@@ -124,7 +122,7 @@ Conciertos
 >21 de Noviembre, 21:00, Sala Clamores. Desde 25€.
 
 
-**-Jorge Pardo**
+### Jorge Pardo
 
 <div class="videoWrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/i5J6vhMvS2o" frameborder="0" allowfullscreen></iframe>
