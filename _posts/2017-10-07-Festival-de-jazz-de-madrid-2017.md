@@ -12,7 +12,7 @@ title: "Festival de Jazz de Madrid 2017"
    
 
 
-¡Vuelve el festival de jazz a Madrid! Y este año, como de costumbre, hay muy buenas propuestas. Conciertos, cine, conferencias, clases, exposiciones... De momento os dejamos una selección de los conciertos que nos parecen más interesantes. 
+¡Vuelve el festival de jazz a Madrid! Y este año, como de costumbre, hay muy buenas propuestas. Conciertos, cine, conferencias, clases, exposiciones... Toda la información y entradas en [http://www.festivaldejazzmadrid.com/](http://www.festivaldejazzmadrid.com/). De momento os dejamos una selección de los conciertos que nos parecen más interesantes. 
 
 
 
