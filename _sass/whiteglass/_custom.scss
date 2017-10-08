@@ -14,3 +14,14 @@
 	width: 100%;
 	height: 100%;
 }
+
+// Responsive para el menú
+
+@media screen and (max-width: 600px){
+    .site-nav .page-link {
+        float: left;
+        margin-left: 0px;
+        padding-right: 250px;
+        line-height: 0;
+        }
+}
