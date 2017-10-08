@@ -6,7 +6,7 @@ permalink: /la-asociación/
 
 Lewis Carroll es la asociación cultural de la Facultad de Matemáticas de la UCM.
 
-[Actividades](/actividades/)
+### [Actividades](/actividades/)
 
 ### Contacto
 
