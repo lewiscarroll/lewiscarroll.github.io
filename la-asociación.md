@@ -4,7 +4,7 @@ title: "La asociación"
 permalink: /la-asociación/
 ---
 
-![Logo Lewis Carroll]({{ site.url }}/files/logo-lewis.png)
+![Logo Lewis Carroll]({{ site.url }}/files/logo-lewis.png =250x)
 
 Lewis Carroll es la asociación cultural de la Facultad de Matemáticas de la UCM.
 
