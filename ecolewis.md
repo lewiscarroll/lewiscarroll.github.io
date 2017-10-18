@@ -4,6 +4,14 @@ title: "Ecolewis"
 permalink: /ecolewis/
 ---
 
+¿Qué es el ecologismo para Lewis?
+
+Lewis entiende el ecologismo como un pensamiento político 
+
+tiende que los problemas medioambientales a los cuales nos estamos enfrentando en los últimos años y para los cuales no se nos auguran los mejores porvenires tienen su origen en un modelosocialoducción y consumo despilfarrador, estúpido, aberrante,
+en su origen en un modelo de producción y consumo despilfarrador y cada vez más globalizado, del que derivan también la mayoría de los problemas sociales actuales.
+
+
 ¿Por qué Lewis Carroll regaló cantimploras?
 
 El lugar más popular para beber agua en nuestra Facultad es la fuente de la cafetería. Los vasos de plástico de apilan junto a ella y su uso es indiscriminado: se desechan unos 3000 a la semana. Generar esta cantidad de residuos supone un importante impacto medioambiental del que debemos tomar conciencia.
