@@ -22,9 +22,10 @@ El plástico tarda de 100 a 700 años en degradarse. Casi 270.000 toneladas de p
 Desde Lewis Carroll se repartieron botellas ecológicas reutilizables para reducir el consumo de plásticos en la Facultad. Estas botellas, libres de Bisfenol A*, pueden durar años si se cuidan y se lavan con regularidad (son aptas para lavavajillas). Así que, si conseguiste hacerte con una, ¡cuídala!
 *Usualmente abreviado como BPA, es un compuesto orgánico con dos grupos funcionales fenol. Es un bloque (monómero) disfuncional de muchos importantes plásticos y aditivos plásticos, sospechoso de ser dañino para los humanos desde la década de 1930.
 
+ref<sup>[[1]](#test)</sup>
 
 Links
-https://elpais.com/elpais/2014/12/10/ciencia/1418233815_012577.html
+https://elpais.com/elpais/2014/12/10/ciencia/1418233815_012577.html <a name="test"></a>
 http://www.huffingtonpost.es/2014/09/20/reutilizar-botellas-plastico_n_5746936.html
 https://twenergy.com/a/productos-desechables-un-gran-foco-de-contaminacion-1418
 Juan:
