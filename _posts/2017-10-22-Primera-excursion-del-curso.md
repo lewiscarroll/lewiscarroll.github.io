@@ -1,6 +1,7 @@
 ---
 layout: post
-redirect-from: "/excursion/"
+redirect-from:
+  - /excursion
 title: "Primera excursión del curso" 
 ---
 
