@@ -3,7 +3,7 @@ layout: post
 title: "Primera excursión del curso" 
 ---
 
-![Bola del Mundo]({{ site.url }}/files/bola-del-mundo.jpg)
+![Bola del Mundo]({{ site.url }}/files/bola_del_mundo.jpg)
 
 ¡Ven el sábado 28 de Octubre a caminar a la sierra!
 Os dejamos aquí todos los detalles de la excursión.
