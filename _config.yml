@@ -29,6 +29,7 @@ gems:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
