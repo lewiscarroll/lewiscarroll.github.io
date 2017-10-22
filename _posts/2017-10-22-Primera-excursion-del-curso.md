@@ -20,12 +20,12 @@ Una vez ahí tomaremos el camino Viejo de El Paular, y comenzaremos a descender 
 
 ## ¿Cómo llegar?
 Se puede ir tanto en bus como en Cercanías: 
-- *Bus*: Intercambiador de Moncloa, planta -1, Isla 2 (sala de color amarillo), Dársena 20, línea 684, a las 8:00, parada *Cercedilla estación*. 
-- *Cercanías*: debéis tomar aquel tren que llegue a Cercedilla a las 9:21, para comprobar cuál es el vuestro, visitad [esta página](http://www.renfe.com/viajeros/cercanias/madrid/).
+- **Bus**: Intercambiador de Moncloa, planta -1, Isla 2 (sala de color amarillo), Dársena 20, línea 684, a las 8:00, parada **Cercedilla estación**. 
+- **Cercanías**: debéis tomar aquel tren que llegue a Cercedilla a las 9:21, para comprobar cuál es el vuestro, visitad [esta página](http://www.renfe.com/viajeros/cercanias/madrid/).
 
 Al llegar, habremos de reunirnos todos en frente del funicular. 
 ## Notas 
-Es una ruta un poco larga, por lo que será imprescindible contar con buenas cantidades de comida y *bebida* (no hay fuentes en el trayecto). 
+Es una ruta un poco larga, por lo que será imprescindible contar con buenas cantidades de comida y **bebida** (no hay fuentes en el trayecto). 
 Debido a los pocos funiculares que hay durante el día (pasa uno cada dos horas), lo más probable es que tomemos el de las 17:00 desde el Puerto de Navacerrada para volver a Cercedilla (así se ha hecho en otras ocasiones). Si hubiera cualquier percance, aún contamos con otro a las 19:00 para volver, pero ya sería mala suerte tener que recurrir a ese. 
 
 Un saludo... ¡y allí nos vemos!
