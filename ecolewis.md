@@ -6,10 +6,7 @@ permalink: /ecolewis/
 
 ¿Qué es el ecologismo para Lewis?
 
-Lewis entiende el ecologismo como un pensamiento político 
-
-tiende que los problemas medioambientales a los cuales nos estamos enfrentando en los últimos años y para los cuales no se nos auguran los mejores porvenires tienen su origen en un modelosocialoducción y consumo despilfarrador, estúpido, aberrante,
-en su origen en un modelo de producción y consumo despilfarrador y cada vez más globalizado, del que derivan también la mayoría de los problemas sociales actuales.
+Lewis entiende el ecologismo como un pensamiento político: los problemas medioambientales a los cuales nos estamos enfrentando en los últimos años y para los cuales no se nos auguran los mejores porvenires tienen su origen en un modelo social de producción y consumo despilfarrador, estúpido, aberrante y cada vez más globalizado, del que derivan también la mayoría de los problemas sociales actuales.
 
 
 ¿Por qué Lewis Carroll regaló cantimploras?
@@ -20,6 +17,7 @@ Por otro lado, las botellas de plástico desechables parecen una alternativa. Te
 
 El plástico tarda de 100 a 700 años en degradarse. Casi 270.000 toneladas de plásticos flotan en los océanos de nuestro planeta. Esto debería hacernos pensar a la hora de escoger si usar o no este material. Así que, si vas a usar plásticos, por lo menos reutilízalos siempre todo lo que puedas.
 Desde Lewis Carroll se repartieron botellas ecológicas reutilizables para reducir el consumo de plásticos en la Facultad. Estas botellas, libres de Bisfenol A*, pueden durar años si se cuidan y se lavan con regularidad (son aptas para lavavajillas). Así que, si conseguiste hacerte con una, ¡cuídala!
+
 *Usualmente abreviado como BPA, es un compuesto orgánico con dos grupos funcionales fenol. Es un bloque (monómero) disfuncional de muchos importantes plásticos y aditivos plásticos, sospechoso de ser dañino para los humanos desde la década de 1930.
 
 ref<sup>[[1]](#test)</sup>
