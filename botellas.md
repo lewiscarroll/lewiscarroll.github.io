@@ -1,10 +1,9 @@
 ---
 layout: page
-title: "Botellas"
+title: "¿Por qué Lewis Carroll regaló botellas?"
 permalink: /botellas/
 ---
 
-¿Por qué Lewis Carroll regaló cantimploras?
 
 El lugar más popular para beber agua en nuestra Facultad es la fuente de la cafetería. Los vasos de plástico de apilan junto a ella y su uso es indiscriminado: se desechan unos 3000 a la semana. Generar esta cantidad de residuos supone un importante impacto medioambiental del que debemos tomar conciencia.
 Las compañeras de la cafetería han probado a no ofrecer vasos de plástico. Resultado: se ven obligadas a prestar vasos de cristal, lo que supone un esfuerzo extra y unos gastos de agua y detergente líquido derivados de su limpieza.
