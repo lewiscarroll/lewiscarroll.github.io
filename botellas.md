@@ -14,7 +14,7 @@ Desde Lewis Carroll se repartieron botellas ecológicas reutilizables para reduc
 
 *Usualmente abreviado como BPA, es un compuesto orgánico con dos grupos funcionales fenol. Es un bloque (monómero) disfuncional de muchos importantes plásticos y aditivos plásticos, sospechoso de ser dañino para los humanos desde la década de 1930.
 
-%ref<sup>[[1]](#test)</sup>
+ref<sup>[[1]](#test)</sup>
 
 Links
 https://elpais.com/elpais/2014/12/10/ciencia/1418233815_012577.html <a name="test"></a>
