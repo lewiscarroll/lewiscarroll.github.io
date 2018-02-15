@@ -39,13 +39,13 @@ Las líneas diagonales invitan a la acción y al movimiento.
 
 Un tipo de líneas diagonales muy común son las convergentes. Estas pueden enfatizar un objeto protagonista de forma muy clara.
 
-![Lineas convergentes]({{site.url}}/file/convergentes1.jpg)
+![Lineas convergentes]({{site.url}}/files/convergentes1.jpg)
 
 ### Líneas Curvas ###
 
 Las líneas curvas son al final las más comunes en nuestro entorno y pueden retransmitir naturalidad, suavidad, continuidad...
 
-![Lineas curvas]({{site.url}}/file/curvas1.jpg)
+![Lineas curvas]({{site.url}}/files/curvas1.jpg)
 
 
 ## Puntos de interés: *regla de los tercios* ##
