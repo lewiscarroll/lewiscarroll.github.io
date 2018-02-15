@@ -22,42 +22,44 @@ Las líneas pueden ser de muchas formas, y cada una de ellas nos puede evocar di
 ### Líneas Horizontales ###
 
 Las lineas horizontales pueden ayudarnos a expresar tranquilidad, y fotografiando un paisaje son las más fáciles de encontrar. 
+
 ![Líneas horizontales]({{ site.url }}/files/horizontales1.jpg)
 
 ### Líneas Verticales ###
 
 Pueden evocar una sensación de altura, de crecimiento. Podemos buscarlas en árboles, edificios, postes, señales...
-![Líneas verticales]({{site.url}}/files/verticales1.jpg)
+
+![Líneas verticales]({{ site.url }}/files/verticales1.jpg)
 
 ### Líneas Diagonales ###
 
 Las líneas diagonales invitan a la acción y al movimiento.
 
-![Líneas fiagonales]({{site.url}}/files/diagonales1.jpg)
+![Líneas fiagonales]({{ site.url }}/files/diagonales1.jpg)
 
 ### Líneas Convergentes ###
 
 Un tipo de líneas diagonales muy común son las convergentes. Estas pueden enfatizar un objeto protagonista de forma muy clara.
 
-![Lineas convergentes]({{site.url}}/files/convergentes1.jpg)
+![Lineas convergentes]({{ site.url }}/files/convergentes1.jpg)
 
 ### Líneas Curvas ###
 
 Las líneas curvas son al final las más comunes en nuestro entorno y pueden retransmitir naturalidad, suavidad, continuidad...
 
-![Lineas curvas]({{site.url}}/files/curvas1.jpg)
+![Lineas curvas]({{ site.url }}/files/curvas1.jpg)
 
 
 ## Puntos de interés: *regla de los tercios* ##
 La regla de los tercios consiste en dividir una imagen en nueve partes iguales, utilizando dos líneas imaginarias paralelas y equiespaciadas de forma horizontal y dos más de las mismas características de forma vertical. De esta forma se recomienda utilizar los puntos de intersección de estas líneas para distribuir los objetos de la escena.
 
-![ley tercios guía]({{site.url}}/files/regla-tercios-guias.jpg)
+![ley tercios guía]({{ site.url }}/files/regla-tercios-guias.jpg)
 
 Veamos un par de ejemplos: 
 
-![regla tercios pajaro]({{site.url}}/files/regla-de-los-tercios.png)
+![regla tercios pajaro]({{ site.url }}/files/regla-de-los-tercios.png)
 
-![regla tercios cartier]({{site.url}}/files/tercios-cartier.jpg)
+![regla tercios cartier]({{ site.url }}/files/tercios-cartier.jpg)
 
 ¡Y ahora, a fotografiar! Utilizad estos recursos como más os plazca, combinándolos a vuestro gusto. 
 
