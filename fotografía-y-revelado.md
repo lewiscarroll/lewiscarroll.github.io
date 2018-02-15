@@ -3,8 +3,8 @@ layout: page
 title: "Fotografía y revelado"
 permalink: /fotografía-y-revelado/
 ---
+![Cartel Fotografía]({{ site.url }}/files/Dorothea Lagrange.jpg)
 
-![Cartel Fotografía]({{ site.url }}/files/Cartier Bresson.jpg)
 
 # Taller de Fotografía
 Nos complace anunciar que... ¡Hemos reactivado el Taller de Fotografía! 
@@ -17,3 +17,5 @@ Cada semana publicaremos en la página web un reto. Este servirá como punto de 
 
 ### Lista de retos realizados y en curso:
 [Semana #1. Composición: *lineas de dirección*.](http://lewiscarroll.es/dhskjdhsak)
+
+![Cartel Fotografía]({{ site.url }}/files/Cartier Bresson.jpg)
