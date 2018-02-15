@@ -3,6 +3,8 @@ layout: post
 title: "Taller de Fotografía. Reto Semanal #1: Líneas y puntos de interés."
 ---
 
+![cabeza de página]({{ site.url }}/files/espiral-bresson.jpg)
+
 ¡Hemos reactivado el [Taller de Fotografía](http://lewiscarroll.es/fotografia-y-revelado)! 
 Como algunos sabéis, vamos a realizar una serie de retos fotográficos semanales para mejorar nuestra técnica y composición y para darnos ideas creativas. 
 Cada semana publicaremos en la página web un reto. Este servirá como punto de partida para que cada uno haga, al menos, cuatro fotos. Y el primer reto es...
