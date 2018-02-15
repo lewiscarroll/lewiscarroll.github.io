@@ -4,7 +4,7 @@ title: "Fotografía y revelado"
 permalink: /fotografía-y-revelado/
 ---
 
-### Taller de Fotografía
+# Taller de Fotografía
 Nos complace anunciar que... ¡Hemos reactivado el Taller de Fotografía! 
 Lewis cuenta con un laboratorio de revelado y positivado propio con todo el material necesario para hacerlo funcionar. Durante el curso, se enseñarán las tecnicas basicas para fotografiar (composición, técnica...) y revelar. Si alguien está interesado, puede desempolvar su vieja cámara de carrete y contactar con nosotros en el [el correo de lewis](http://lewiscarroll.es/contacto) o bajando al local y preguntando.
 
