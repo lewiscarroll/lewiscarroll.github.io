@@ -7,5 +7,7 @@ main:
     url: /actividades/
   - title: "Decrecimiento"
     url: /decrecimiento/
+  - title: "Contacto"
+    url: /contacto/
 #  - title: "Archives"
 #    url: /archives/
