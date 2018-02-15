@@ -35,7 +35,7 @@ Pueden evocar una sensación de altura, de crecimiento. Podemos buscarlas en ár
 
 Las líneas diagonales invitan a la acción y al movimiento.
 
-![Líneas fiagonales]({{ site.url }}/files/diagonales1.jpg)
+![Líneas diagonales]({{ site.url }}/files/diagonales 1.jpg)
 
 ### Líneas Convergentes ###
 
