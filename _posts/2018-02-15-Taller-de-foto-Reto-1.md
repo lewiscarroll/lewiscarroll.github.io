@@ -9,6 +9,8 @@ title: "Taller de Fotografía. Reto Semanal #1: Líneas y puntos de interés."
 Como algunos sabéis, vamos a realizar una serie de retos fotográficos semanales para mejorar nuestra técnica y composición y para darnos ideas creativas. 
 Cada semana publicaremos en la página web un reto. Este servirá como punto de partida para que cada uno haga, al menos, cuatro fotos. Y el primer reto es...
 
+<!-- more -->
+
 
 # Composición: *líneas de dirección y puntos de interés* #
 
