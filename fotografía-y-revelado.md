@@ -19,6 +19,6 @@ Cada semana publicaremos en la página web un reto. Este servirá como punto de 
 
 ### Lista de retos realizados y en curso:
 
-[Semana #1. Composición: *líneas de dirección*.](http://lewiscarroll.es/_posts/2018-02-15-Taller-de-foto-Reto-1)
+[Semana #1. Composición: *líneas de dirección*.](http://lewiscarroll.es/2018/02/15/Taller-de-foto-Reto-1/)
 
 ![Cartel Fotografía]({{ site.url }}/files/Cartier Bresson.jpg)
