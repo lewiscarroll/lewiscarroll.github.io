@@ -8,6 +8,10 @@ title: "Primera excursión del curso"
 ¡Ven el sábado 28 de Octubre a caminar a la sierra!
 Os dejamos aquí todos los detalles de la excursión.
 
+
+<!-- more -->
+
+
 ## Trayecto 
 <div class="videoWrapper">
     <iframe frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=20448737&measures=off&title=off&near=off&images=off&maptype=T" width="500" height="400"></iframe><div style="background-color:#fff;color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://es.wikiloc.com">Wikiloc</a></div>
@@ -16,7 +20,6 @@ Empezaremos en el Puerto de Navacerrada tras haber tomado el funicular Cercedill
 
 Una vez ahí tomaremos el camino Viejo de El Paular, y comenzaremos a descender hasta hallarnos plenamente en los pinares de Valsaín. Los últimos cuatro kilómetros son de ascenso, y en particular, los últimos dos son especialmente escarpados. Finalmente, llegaremos de nuevo a El Puerto de Navacerrada, donde volveremos a tomar el funicular para volver hasta Cercedilla. 
 
-<!-- more -->
 
 ## ¿Cómo llegar?
 Se puede ir tanto en bus como en Cercanías: 
