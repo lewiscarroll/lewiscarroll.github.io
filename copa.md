@@ -24,6 +24,7 @@ Los tampones y las compresas, además de ser tóxicos, son contaminantes durante
 
 ### Por comodidad
 ![Copita]({{ site.url }}/files/Sin titulo.png)
+
 La copa contiene hasta tres veces más que un tampón, puedes llevarla hasta 12 horas y es ideal para hacer cualquier deporte, [no molesta y no se nota](http://www.zorrasybrujas.com/copa-menstrual/), y la puedes usar para dormir.
 
 ### Por tu bolsillo
