@@ -34,4 +34,4 @@ El precio de la copa suele variar entre 10 y 30 euros. Supongamos ahora un gasto
 Cabe preguntarnos, [¿por qué la copa no se impone en España?](http://www.eldiario.es/consumoclaro/vida_sexual/copa-menstrual-regla-menstruacion-ventajas-inconvenientes_0_500100375.html) El peso de los tabúes es eminente en nuestra sociedad y no son pocas las mujeres a las que les repele su propia sangre. Y pocas se han librado de un paseo al baño compresa en manga bajo el estigma entorno a la menstruación.
 
 Por tu cuerpo o por el medio ambiente, no tienes nada que perder...
-![Cartel2]({{ site.url }}/files/essta-iloveimg-resized.png)
+![Cartel2]({{ site.url }}/files/essta-iloveimg-resized.jpg)
