@@ -23,7 +23,7 @@ La copa ayuda a la desintoxicación de todos aquellos químicos que se han ido a
 Los tampones y las compresas, además de ser tóxicos, son contaminantes durante su proceso de fabricación y desechado.  Esto es debido al cloro y el polietileno que contienen hace que se contamine el agua y tarde más de 150 años en degradarse por completo. Para hacernos una idea, una mujer utiliza una media de 25 tampones o compresas en cada ciclo menstrual: un total de 300 al año. Alrededor del mundo se calcula que un 30% de mujeres está en edad menstrual lo que supone un total de más de dos millones de mujeres, es decir, se desechan alrededor de 94.500.000.000 de tampones y compresas. Toneladas de plástico y elementos contaminantes que tardan mucho en degradarse y no tienen posibilidad alguna de reciclarse. Y eso sin mencionar los embalajes que llevan éstos mismos. [Para hacerse una idea](http://www.upsocl.com/verde/cuanto-contaminamos-las-mujeres-en-edad-fertil-cuando-lo-descubras-te-impresionaras/), si cada compresa después de usada pesa 5 gramos, producimos 65 kg de basura al año sólo en compresas. En 40 años son 2.600 kg de basura. O sea que cada cien mujeres menstruantes producimos 6.500 kg de basura al año. En 40 años (aproximadamente la duración de la vida fértil) tiramos a la basura 260 toneladas de protección menstrual altamente contaminante y no degradable en nuestro medio ambiente. 
 
 ### Por comodidad
-![Cop]({{ site.url }}/files/Sin título.png)
+![Cop]({{ site.url }}/files/tal.png)
 
 La copa contiene hasta tres veces más que un tampón, puedes llevarla hasta 12 horas y es ideal para hacer cualquier deporte, [no molesta y no se nota](http://www.zorrasybrujas.com/copa-menstrual/), y la puedes usar para dormir.
 
