@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "Primera excursión del curso" 
+title: "Ultima excursión del curso" 
 ---
 
 ![Bola del Mundo]({{ site.url }}/files/bola_del_mundo.jpg)
 
-¡Ven el sábado 28 de Octubre a caminar a la sierra!
+¡Ven el domingo 3 de Junio a caminar a la sierra!
 Os dejamos aquí todos los detalles de la excursión.
 
 <!-- more -->
 
 ## Trayecto 
 <div class="videoWrapper">
-    <iframe frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=20448737&measures=off&title=off&near=off&images=off&maptype=T" width="500" height="400"></iframe><div style="background-color:#fff;color:#777;font-size:11px;line-height:16px;">Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="_blank" href="https://es.wikiloc.com">Wikiloc</a></div>
+    <iframe frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=20448737&measures=off&title=off&near=off&images=off&maptype=T" width="500" height="400"></iframe>
+    <div style="background-color:#fff;color:#777;font-size:11px;line-height:16px;">
+      Powered by <a style="color:#06d;font-size:11px;line-height:16px;" target="blank" href="https://es.wikiloc.com">Wikiloc</a>
+    </div>
 </div>
 Empezaremos en el Puerto de Navacerrada tras haber tomado el funicular Cercedilla-Cotos (sale a las 9:35, a los 15 minutos de llegar a Cercedilla). A continuación subiremos por una ladera hasta la Bola del Mundo desde donde nos incorporaremos a una pequeña senda que nos dirigirá (a través de La Loma del Noruego) hasta el Puerto de Cotos.
 
