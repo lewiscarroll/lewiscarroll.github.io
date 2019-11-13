@@ -5,9 +5,7 @@ main:
     url: /la-asociación/
   - title: "Actividades"
     url: /actividades/
-  - title: "Decrecimiento"
-    url: /decrecimiento/
+# - title: "Decrecimiento"
+#    url: /decrecimiento/
   - title: "Contacto"
     url: /contacto/
-#  - title: "Archives"
-#    url: /archives/
