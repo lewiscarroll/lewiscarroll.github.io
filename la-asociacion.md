@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "La asociación"
-permalink: /la-asociación/
-redirect_to:
-  - /la-asociacion/
+permalink: /la-asociacion/
 ---
 
 ![Logo Lewis Carroll]({{ site.url }}/files/logo-lewis.png)

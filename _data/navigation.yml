@@ -2,7 +2,7 @@
 # pages in order as they should show up.
 main:
   - title: "La asociación"
-    url: /la-asociación/
+    url: /la-asociacion/
   - title: "Actividades"
     url: /actividades/
 # - title: "Decrecimiento"
