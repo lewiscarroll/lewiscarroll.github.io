@@ -5,9 +5,10 @@ permalink: /actividades/
 ---
 
 - [Jam sessions](/jams/)
+- [Taller de encuadernación](/encuadernacion/)
+- HackLab (estamos empezando, si estás interesada/o pasate por el local de la asociación)
 - Semana Ciencia Indignada
 - Salidas a la montaña
-- HackLab (estamos empezando, si estás interesada/o pasate por el local de la asociación)
 - [Taller de fotografía y revelado](/fotografía-y-revelado/) (Todavía por empezar)
 - [Taller de bicicletas (reparaciones y salidas)](/bicicletas/) (Todavía por empezar)
 - [Salidas culturales](/tablón)
