@@ -1,6 +1,11 @@
 #!/usr/bin/python2 
 # -*- coding: utf-8 -*-
 
+"""
+http://lewiscarroll.es/encuadernacion/
+imposicion.py es un script escrito en python que te ayuda a reordenar las páginas de un pdf y preparar documentos para imprimir y encuadernar. El programa fue desarrollado originalmente por las compañeras de eigenLab y traducido al español y modificado por gente de Lewis Carroll.
+"""
+
 from PyPDF2 import PdfFileReader, PdfFileWriter
 import argparse
 
