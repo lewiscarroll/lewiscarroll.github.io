@@ -8,7 +8,7 @@ title: Lewis Carroll
 author: Lewis Carroll
 description: Asociación de la Facultad de Matemáticas de la UCM.
 baseurl: "/" 
-url: "http://lewiscarroll.es"
+url: "http://lewiscarroll.xyz"
 lang: es
 exclude:
   - README.md

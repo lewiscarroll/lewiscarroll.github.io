@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-http://lewiscarroll.es/encuadernacion/
+http://lewiscarroll.xyz/encuadernacion/
 imposicion.py es un script escrito en python que te ayuda a reordenar las páginas de un pdf y preparar documentos para imprimir y encuadernar. El programa fue desarrollado originalmente por las compañeras de eigenLab y traducido al español y modificado por gente de Lewis Carroll.
 """
 
@@ -241,6 +241,6 @@ if __name__ == "__main__":
 Script todavía en fase de desarrollo, probablemente haya errores.
 Usalo bajo tu propio riesgo. Antes de imprimir haz todas las comprobaciones posibles.
 
-Próximamente subiremos a http://lewiscarroll.es una versión más estable.
+Próximamente subiremos a http://lewiscarroll.xyz una versión más estable.
 """)
     main()
