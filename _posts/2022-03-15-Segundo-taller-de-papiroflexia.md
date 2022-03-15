@@ -3,7 +3,7 @@ layout: post
 title: "Segundo taller de papiroflexia" 
 ---
 
-![Cartel]({{ site.url }}/files/papiroflexia.svg)
+![Cartel]({{ site.url }}/files/papiroflexia.png)
 
 Este jueves 24 tendrá lugar el segundo taller de papiroflexia, centrado en
 teselaciones y superficies matemáticas. El aula y horario están todavia por
