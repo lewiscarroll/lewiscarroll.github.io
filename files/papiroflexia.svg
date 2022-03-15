@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 1016 571.5"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="cartel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1830.7437"
+     inkscape:cy="999.89318"
+     inkscape:window-width="2560"
+     inkscape:window-height="1418"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-1150.3531"
+       y="-709.11594"
+       width="1617.0644"
+       height="477.79039"
+       id="rect2252" />
+    <rect
+       x="-1150.3531"
+       y="-709.11594"
+       width="1406.1832"
+       height="832.87755"
+       id="rect15426" />
+    <rect
+       x="-1150.3531"
+       y="-709.11594"
+       width="1065"
+       height="725.96884"
+       id="rect52830" />
+    <rect
+       x="-1150.3531"
+       y="-709.11594"
+       width="1338.7604"
+       height="400.62212"
+       id="rect4414" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="1016"
+       height="571.5"
+       preserveAspectRatio="none"
+       xlink:href="foto2.jpg"
+       id="image1048"
+       x="0"
+       y="0" />
+    <image
+       width="1016"
+       height="571.5"
+       preserveAspectRatio="none"
+       xlink:href="foto1.jpg"
+       id="image1060"
+       x="508"
+       y="0" />
+    <rect
+       style="fill:#fffeff;stroke-width:1.953;stroke-linejoin:round"
+       id="rect1036"
+       width="631.10071"
+       height="842.1311"
+       x="1016"
+       y="-172.2675" />
+    <rect
+       style="fill:#01a694;fill-opacity:0.853955;stroke-width:3.40126;stroke-linejoin:round"
+       id="rect1140"
+       width="506.34119"
+       height="268.5184"
+       x="254.82941"
+       y="151.4908" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28552821,0,0,0.28552821,610.60437,368.2398)"
+       id="text2250"
+       style="font-style:normal;font-weight:normal;font-size:144px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2252);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-1150.3535"
+         y="-576.74486"
+         id="tspan2928"><tspan
+           style="font-weight:bold;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#fffeff"
+           id="tspan2924">Segundo taller </tspan><tspan
+           style="font-weight:bold;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#fffeff"
+           id="tspan2926">de </tspan></tspan><tspan
+         x="-1150.3535"
+         y="-391.78075"
+         id="tspan2934"><tspan
+           style="font-weight:bold;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#fffeff"
+           id="tspan2930">papiroflexia: </tspan><tspan
+           style="font-weight:bold;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#fffeff"
+           id="tspan2932">teselaciones</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.22183693,0,0,0.22183693,539.43823,487.4051)"
+       id="text4412"
+       style="font-style:normal;font-weight:normal;font-size:144px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4414);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="-1150.3535"
+         y="-576.74486"
+         id="tspan2938"><tspan
+           style="font-weight:bold;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#fffeff"
+           id="tspan2936">Jueves 17 a las 15:00 </tspan></tspan><tspan
+         x="-1150.3535"
+         y="-391.78075"
+         id="tspan2942"><tspan
+           style="font-weight:bold;font-family:Cabin;-inkscape-font-specification:'Cabin Bold';fill:#fffeff"
+           id="tspan2940">en el aula 11_</tspan></tspan></text>
+    <image
+       width="136.75801"
+       height="171.07986"
+       preserveAspectRatio="none"
+       xlink:href="logo-lewis.png"
+       id="image17590"
+       x="626.5293"
+       y="251.57515" />
+  </g>
+</svg>
