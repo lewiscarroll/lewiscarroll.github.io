@@ -11,8 +11,16 @@ aula 117 de la facultad de matemáticas.
 
 <!-- more -->
 
-## Referencias
+### Diapositivas
 
-- Ténicas de plegado para diseñadores y arquitectos, Paul Jackson
-- [Paper and Stick Film, Ron Resch](https://www.youtube.com/watch?v=UXENKmAUL0E)
-- [The Folded Geometry of the Universe, Matthew Gardiner](https://orilab.art/ori/The_Folded_Geometry_of_the_Universe)
+![Diapositiva 20: Diagramas]({{ site.url }}/files/papiroflexia-taller-lewis-carroll-handout-19.png)
+
+[Descargar diapositivas.]({{ site.url }}/files/papiroflexia-taller-lewis-carroll-handout.pdf)
+
+### Referencias
+
+- [Paper and Stick Film, *Ron Resch* - vídeo](https://www.youtube.com/watch?v=UXENKmAUL0E)
+- [papermosaics.co.uk](http://www.papermosaics.co.uk/)
+- [Técnicas de plegado para diseñadores y arquitectos - *Paul Jackson*](http://www.origami-artist.com/publications/books-for-designers-2/)
+- [*Huzita–Hatori* axioms - Wikipedia](https://en.wikipedia.org/wiki/Huzita\%E2\%80\%93Hatori\_axioms)
+- [ORI - *Matthew Gardiner* and *Ars Electronica Futurelab*]}(https://orilab.art/)
